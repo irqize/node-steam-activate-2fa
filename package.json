@@ -1,0 +1,15 @@
+{
+  "name": "steam-enable-two-factor-auth",
+  "version": "1.0.0",
+  "description": "simple node.js console app to activate two factor authentication and get secret codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index"
+  },
+  "author": "irqize",
+  "license": "ISC",
+  "dependencies": {
+    "steamcommunity": "^3.34.1"
+  }
+}
