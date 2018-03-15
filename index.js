@@ -124,7 +124,7 @@ function setup2FA(){
 					}
 
 					rl.close();
-					process.exit(1);2
+					process.exit(1);
 				});
 			});
 		});
